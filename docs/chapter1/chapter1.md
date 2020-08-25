@@ -1,3 +1,27 @@
+更新：2020最新课程
+1. 资源
+李宏毅2020最新的深度学习课程：http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html
+Bilibili视频资料：https://www.bilibili.com/video/BV1JE411g7XF
+
+2. 课程内容
+2.0 主要区别在于2020年的课程多了很多作业
+
+2.1 Generation
+除了Regression和Classification，还有更复杂的Generation，即产生/创造有结构的复杂东西，例如文句（Seq2seq，翻译）、图片（GAN，产生二次元人物）。
+
+
+2.2 前沿研究
+Explainable AI，“为什么觉得图片是猫”
+Adversarial Attack，“针对性地加入noise，干扰判断”
+Network Compression，“能否避免大型、复杂地网络结构”
+
+Meta Learning，Can machine learn the learning algorithm? (program designing program for learning)
+Life-long Learning，“Why Sky-net is impossible?”
+
+（博客已有:
+Anomaly Detection，“能否知道自己不知道，即未在训练时遇到过”
+Transfer Learning (Doamin Adversarial Learning），“即使没遇到过也能处理”
+
 
 
 ## 机器学习介绍
